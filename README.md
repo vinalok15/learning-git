@@ -1,4 +1,4 @@
-# learning-git
+# Git and Git Hub Courses
 
 ##this is a learning git file
 
